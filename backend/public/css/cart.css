@@ -1,0 +1,127 @@
+.title {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.cart_list {
+    margin-bottom: 20px;
+}
+
+.cart_item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    border-bottom: 1px solid gray;
+}
+
+.cart_item>span {
+    width: 300px;
+}
+
+.button {
+    background: #fff;
+    border: 1px solid #35a2c7;
+    border-radius: 4px;
+}
+
+.button:hover {
+    background: #35a2c7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.item_button {
+    margin-right: 10px;
+}
+
+.cart_button,
+.remove_button {
+    width: 30px;
+    height: 30px;
+}
+
+.checkout {
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 4px;
+
+    background: #35a2c7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.total {
+    font-weight: bold;
+}
+
+/* 모달 스타일 */
+.modal {
+    display: block;
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.modal-input {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.modal-button {
+    display: block;
+    width: 25%;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #797979;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.modal-button:hover {
+    background-color: #3c3c3c;
+}
+
+.modal-text {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
