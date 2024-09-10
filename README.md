@@ -41,27 +41,27 @@ npm start
 
 ### 관심상품 페이지
   - 관심상품 페이지에서도 장바구니 담기 기능 가능
-  - 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c51bc57-21b9-42ec-af9a-5d1eaf3eee88/eb0b7d4e-c3db-4de5-9a72-532810a6405c/Untitled.png)
+
+<img width="1376" alt="Untitled1" src="https://github.com/user-attachments/assets/470070f9-762d-4a62-a0c4-5c82d246b0bc">
 
 ### 장바구니 페이지
   - 장바구니에 담긴 상품들을 수량 체크 후 결제
   - 결제하기 버튼 클릭 시 사용자 이름 입력란이 나오고 입력한 이름과 결제금액 정보가 결제페이지로 이동
   - 설문조사를 통해 사용자들의 만족도 데이터 수집
-  - 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c51bc57-21b9-42ec-af9a-5d1eaf3eee88/6df98240-fcbc-4c8f-9fcc-c1e768754ab7/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c51bc57-21b9-42ec-af9a-5d1eaf3eee88/f3bdc2e8-548a-4f77-a6b6-b664f9ee3946/Untitled.png)
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c51bc57-21b9-42ec-af9a-5d1eaf3eee88/72431279-3291-4e68-b8bf-0cad73558759/image.png)
+
+<img width="1380" alt="Untitled2" src="https://github.com/user-attachments/assets/f9c357a8-960e-4bf2-aa1b-ba44bb7cfbec"><br> 
+<img width="1381" alt="Untitled3" src="https://github.com/user-attachments/assets/58ff0652-a225-49df-9cad-78fee5e8cbe1"><br> 
+<img width="854" alt="image4" src="https://github.com/user-attachments/assets/57c41492-5458-4822-b244-4ae4a338414d">
 
 ### 결제 페이지
   - 결제하기 버튼 클릭시 웹결제창이 뜨고 결제 가능
   - 삭제하기 버튼 클릭시 사용자 이름과 결제정보 삭제
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c51bc57-21b9-42ec-af9a-5d1eaf3eee88/3d345383-eadf-4475-9149-de4142a0eeea/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c51bc57-21b9-42ec-af9a-5d1eaf3eee88/5d3d268e-b9e1-4539-807e-708444b9e241/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c51bc57-21b9-42ec-af9a-5d1eaf3eee88/0373acf9-bca6-4b23-8d4f-974fb1ec888e/Untitled.png)
+<img width="1334" alt="Untitled4" src="https://github.com/user-attachments/assets/70c31a17-d536-464a-b60f-936c4601f8ac"><br> 
+<img width="1294" alt="Untitled5" src="https://github.com/user-attachments/assets/679ee67f-efe2-46d7-ac61-dbc2af9bb3b7"><br> 
+<img width="1295" alt="Untitled6" src="https://github.com/user-attachments/assets/bf975990-2d89-4154-99fa-0db01d811475">
 
 ### 데이터가 저장되는 DB
   - 사용자 이름, 결제금액, 만족도 설문조사 데이터 저장
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c51bc57-21b9-42ec-af9a-5d1eaf3eee88/4dfd5feb-8e87-4455-bf04-3a370ba5f2b0/Untitled.png)
+<img width="1508" alt="Untitled7" src="https://github.com/user-attachments/assets/6cb04fa7-55fd-43d6-a15f-5acba6238d3c">
