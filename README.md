@@ -54,15 +54,13 @@ npm start
 <img width="1380" alt="Untitled2" src="https://github.com/user-attachments/assets/f9c357a8-960e-4bf2-aa1b-ba44bb7cfbec"><br> 
 <img width="1381" alt="Untitled3" src="https://github.com/user-attachments/assets/58ff0652-a225-49df-9cad-78fee5e8cbe1"><br> 
 <img width="854" alt="image4" src="https://github.com/user-attachments/assets/57c41492-5458-4822-b244-4ae4a338414d">
-
 ### 결제 페이지
   - 결제하기 버튼 클릭시 웹결제창이 뜨고 결제 가능
   - 삭제하기 버튼 클릭시 사용자 이름과 결제정보 삭제
 
 <img width="1334" alt="Untitled4" src="https://github.com/user-attachments/assets/70c31a17-d536-464a-b60f-936c4601f8ac"><br> 
 <img width="1294" alt="Untitled5" src="https://github.com/user-attachments/assets/679ee67f-efe2-46d7-ac61-dbc2af9bb3b7"><br> 
-<img width="1295" alt="Untitled6" src="https://github.com/user-attachments/assets/bf975990-2d89-4154-99fa-0db01d811475">
-
+![image](https://github.com/user-attachments/assets/c0a06c40-2168-43fc-8ee7-cc9273e168c1)
 ### 데이터가 저장되는 DB
   - 사용자 이름, 결제금액, 만족도 설문조사 데이터 저장
 
