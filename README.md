@@ -1,12 +1,14 @@
-# 무인의류매장 플랫폼 운영 위한, AI 기반 매장 안내 점원 로봇 개발
+# 무인의류매장 플랫폼 운영 위한, AI 기반 매장 안내 점원 로봇 개발  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonguk0893%2Fumannedrobot_web.git&count_bg=%232D97BC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <br>
 
 
 ## 🚀Skills
 
-![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonguk0893&layout=compact)](https://github.com/seonguk0893/github-readme-stats)
 
 <br>
 
@@ -65,3 +67,4 @@ npm start
   - 사용자 이름, 결제금액, 만족도 설문조사 데이터 저장
 
 <img width="1508" alt="Untitled7" src="https://github.com/user-attachments/assets/6cb04fa7-55fd-43d6-a15f-5acba6238d3c">
+
