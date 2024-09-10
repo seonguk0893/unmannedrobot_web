@@ -36,8 +36,8 @@ npm start
 
 ### 상품 페이지(Men, Women)
   - 상품 이미지 클릭 시 상품 상세정보, 관심상품 등록, 장바구니 담기 기능
-  - 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c51bc57-21b9-42ec-af9a-5d1eaf3eee88/57690781-54f4-4116-b1ca-4d0c4c964a05/Untitled.png)
+
+![Uploading Untitled.png…]()
 
 ### 관심상품 페이지
   - 관심상품 페이지에서도 장바구니 담기 기능 가능
